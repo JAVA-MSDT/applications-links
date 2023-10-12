@@ -130,4 +130,12 @@ Applications links necessary to be installed on pc for development or a daily us
       <td>https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local</td>
       <td><b>Develop Azure Functions locally using Core Tools.</b></td>
     </tr>  
+        <tr>
+        <td colspan="6" align="center"><b>Database</b></td>
+    </tr>  
+    <tr>
+      <td><b>DBeaver Community</b></td>
+      <td>https://dbeaver.io/</td>
+      <td><b>database tool for developers, database administrators, analysts, and everyone working with data.</b></td>
+    </tr>
 </table>
