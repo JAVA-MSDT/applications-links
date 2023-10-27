@@ -42,6 +42,11 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Free Tool for Creating Screencasts</b></td>
     </tr>
     <tr>
+      <td><b>vokoscreen</b></td>
+      <td>https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html</td>
+      <td><b>Free Tool for Creating Screencasts and screen capturing</b></td>
+    </tr>
+    <tr>
         <td colspan="6" align="center"><b>Communications</b></td>
     </tr>  
     <tr>
