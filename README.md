@@ -151,4 +151,18 @@ Applications links necessary to be installed on pc for development or a daily us
       <td>https://www.kafkatool.com/download.html</td>
       <td><b> GUI application for managing and using Apache Kafka clusters.</b></td>
     </tr>    
+    <tr>
+        <td colspan="6" align="center"><b>Java Language</b></td>
+    </tr>  
+    <tr>
+      <td><b>JDK Mission Control (JMC) 8.3.1</b></td>
+      <td>https://www.oracle.com/java/technologies/javase/products-jmc8-downloads.html</td>
+      <td><b> GUI application for monitoring and recording java application events.</b></td>
+    </tr>    
+    <tr>
+      <td><b>VisualVM</b></td>
+      <td>https://visualvm.github.io/download.html</td>
+      <td><b>VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
+Designed for both development and production time use.</b></td>
+    </tr>     
 </table>
