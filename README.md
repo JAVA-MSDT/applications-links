@@ -165,4 +165,9 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
 Designed for both development and production time use.</b></td>
     </tr>     
+    <tr>
+      <td><b>SonarQube</b></td>
+      <td>https://www.sonarsource.com/products/sonarqube/downloads/</td>
+      <td><b>a self-managed, automatic code review tool that systematically helps you deliver Clean Code.</b></td>
+    </tr>      
 </table>
