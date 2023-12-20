@@ -102,10 +102,15 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>To interact with APIs by sending Http requests</b></td>
     </tr>  
     <tr>
+      <td><b>Docker Engine</b></td>
+      <td>https://docs.docker.com/engine/install/</td>
+      <td><b>Docker Engine is also available for Windows, macOS, and Linux, through Docker Desktop.</b></td>
+    </tr>  
+    <tr>
       <td><b>Docker Desktop</b></td>
       <td>https://www.docker.com/products/docker-desktop/</td>
       <td><b>containerization software for developers and teams</b></td>
-    </tr>  
+    </tr>     
     <tr>
         <td colspan="6" align="center"><b>Ideas</b></td>
     </tr>  
