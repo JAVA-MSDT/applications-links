@@ -155,7 +155,12 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Offset Explorer</b></td>
       <td>https://www.kafkatool.com/download.html</td>
       <td><b> GUI application for managing and using Apache Kafka clusters.</b></td>
-    </tr>    
+    </tr>  
+    <tr>
+      <td><b>ActiveMQ</b></td>
+      <td>https://activemq.apache.org/</td>
+      <td><b>Flexible & Powerful Open Source Multi-Protocol Messaging</b></td>
+    </tr>      
     <tr>
         <td colspan="6" align="center"><b>Java Language</b></td>
     </tr>  
