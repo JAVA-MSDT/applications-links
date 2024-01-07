@@ -59,6 +59,14 @@ Applications links necessary to be installed on pc for development or a daily us
       <td>https://www.microsoft.com/en-us/microsoft-teams/download-app</td>
       <td><b>Connect and collaborate with anyone from anywhere on Teams.</b></td>
     </tr>  
+    <tr>
+        <td colspan="6" align="center"><b>VPN</b></td>
+    </tr> 
+    <tr>
+      <td><b>Proton VPN</b></td>
+      <td>https://protonvpn.com/</td>
+      <td><b>Free & Paid, fast and reliable VPN</b></td>
+    </tr>     
 </table>
 
 ## Programming
