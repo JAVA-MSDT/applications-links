@@ -191,9 +191,6 @@ Designed for both development and production time use.</b></td>
         <td><b>Discription</b></td>
     </tr>
     <tr>
-        <td colspan="6" align="center"><b>Cloud</b></td>
-    </tr>  
-    <tr>
         <td colspan="6" align="center"><b>Azure</b></td>
     </tr>  
     <tr>
