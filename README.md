@@ -4,6 +4,7 @@
 - [Discription](#discription)
 - [General purposes](#general-purposes)
 - [Programming](#programming)
+- [Cloud](#cloud)
 
 ## Discription 
 Applications links necessary to be installed on pc for development or a daily use
@@ -131,23 +132,7 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Visual Studio Code</b></td>
       <td>https://code.visualstudio.com/download</td>
       <td><b>Free and built on open source. Integrated Git, debugging and extensions.</b></td>
-    </tr>  
-    <tr>
-        <td colspan="6" align="center"><b>Cloud</b></td>
-    </tr>  
-    <tr>
-        <td colspan="6" align="center"><b>Azure</b></td>
-    </tr>  
-    <tr>
-      <td><b>Cosmos DB emulator </b></td>
-      <td>https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-release-notes</td>
-      <td><b>To develop Azure solution locally</b></td>
-    </tr>
-    <tr>
-      <td><b>Functions Core Tools</b></td>
-      <td>https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local</td>
-      <td><b>Develop Azure Functions locally using Core Tools.</b></td>
-    </tr>  
+    </tr>     
     <tr>
         <td colspan="6" align="center"><b>Database</b></td>
     </tr>  
@@ -196,4 +181,37 @@ Designed for both development and production time use.</b></td>
       <td>https://start.spring.io/</td>
       <td><b>Generating a new Spring project</b></td>
     </tr>     
+</table>
+
+## Cloud
+<table>
+    <tr>
+        <td><b>Title</b></td>
+        <td><b>Link</b></td>
+        <td><b>Discription</b></td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center"><b>Cloud</b></td>
+    </tr>  
+    <tr>
+        <td colspan="6" align="center"><b>Azure</b></td>
+    </tr>  
+    <tr>
+      <td><b>Cosmos DB emulator </b></td>
+      <td>https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-release-notes</td>
+      <td><b>To develop Azure solution locally</b></td>
+    </tr>
+    <tr>
+      <td><b>Functions Core Tools</b></td>
+      <td>https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local</td>
+      <td><b>Develop Azure Functions locally using Core Tools.</b></td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center"><b>AWS</b></td>
+    </tr>  
+    <tr>
+      <td><b>AWS CLI</b></td>
+      <td>https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html</td>
+      <td><b>is an open source tool that enables you to interact with AWS services using commands in your command-line shell. With minimal configuration.</b></td>
+    </tr> 
 </table>
