@@ -211,4 +211,9 @@ Designed for both development and production time use.</b></td>
       <td>https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html</td>
       <td><b>is an open source tool that enables you to interact with AWS services using commands in your command-line shell. With minimal configuration.</b></td>
     </tr> 
+    <tr>
+      <td><b>AWS SAM CLI</b></td>
+      <td>https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html</td>
+      <td><b>is a toolkit that improves the developer experience of building and running serverless applications on AWS.</b></td>
+    </tr>     
 </table>
