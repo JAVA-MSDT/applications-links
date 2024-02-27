@@ -81,6 +81,11 @@ Applications links necessary to be installed on pc for development or a daily us
         <td colspan="6" align="center"><b>General</b></td>
     </tr>  
     <tr>
+      <td><b>ObenJdk Java</b></td>
+      <td>https://www.openlogic.com/openjdk-downloads</td>
+      <td><b>OpenLogic provides free, quarterly builds of OpenJDK for Linux, Windows, and MacOS.</b></td>
+    </tr>     
+    <tr>
       <td><b>Git version control</b></td>
       <td>https://git-scm.com/downloads</td>
       <td><b>To track changes in any set of computer files</b></td>
