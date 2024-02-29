@@ -131,6 +131,14 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>A popular SFTP client and FTP client for Microsoft Windows! Copy file between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3 file transfer protocols.</b></td>
     </tr>     
     <tr>
+        <td colspan="6" align="center"><b>Servers</b></td>
+    </tr>    
+    <tr>
+      <td><b>Tomcat Server</b></td>
+      <td>https://tomcat.apache.org/</td>
+      <td><b>An open source server for  Java EE</b></td>
+    </tr>    
+    <tr>
         <td colspan="6" align="center"><b>Ideas</b></td>
     </tr>  
     <tr>
