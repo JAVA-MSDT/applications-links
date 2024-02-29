@@ -124,6 +124,11 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Docker Desktop</b></td>
       <td>https://www.docker.com/products/docker-desktop/</td>
       <td><b>containerization software for developers and teams</b></td>
+    </tr>
+    <tr>
+      <td><b>WinSCP SFTP client and FTP client</b></td>
+      <td>https://winscp.net/eng/download.php/</td>
+      <td><b>A popular SFTP client and FTP client for Microsoft Windows! Copy file between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3 file transfer protocols.</b></td>
     </tr>     
     <tr>
         <td colspan="6" align="center"><b>Ideas</b></td>
