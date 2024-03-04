@@ -160,6 +160,11 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>database tool for developers, database administrators, analysts, and everyone working with data.</b></td>
     </tr>
     <tr>
+      <td><b>PostgreSQL</b></td>
+      <td>https://www.enterprisedb.com/downloads/postgres-postgresql-downloads</td>
+      <td><b>Open source PostgreSQL packages and installers from EDB.</b></td>
+    </tr>    
+    <tr>
         <td colspan="6" align="center"><b>Message Broker</b></td>
     </tr>  
     <tr>
