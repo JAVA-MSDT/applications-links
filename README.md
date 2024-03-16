@@ -67,6 +67,14 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Proton VPN</b></td>
       <td>https://protonvpn.com/</td>
       <td><b>Free & Paid, fast and reliable VPN</b></td>
+    </tr>   
+    <tr>
+        <td colspan="6" align="center"><b>VDI</b></td>
+    </tr> 
+    <tr>
+      <td><b>Citrix Receiver</b></td>
+      <td>https://www.citrix.com/downloads/citrix-receiver/</td>
+      <td><b>A secure and unified access to apps, desktops, and content Virtually</b></td>
     </tr>     
 </table>
 
