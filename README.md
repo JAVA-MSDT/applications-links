@@ -173,6 +173,11 @@ Applications links necessary to be installed on pc for development or a daily us
       <td><b>Open source PostgreSQL packages and installers from EDB.</b></td>
     </tr>    
     <tr>
+      <td><b>Mockaroo</b></td>
+      <td>https://mockaroo.com/</td>
+      <td><b>Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.</b></td>
+    </tr>     
+    <tr>
         <td colspan="6" align="center"><b>Message Broker</b></td>
     </tr>  
     <tr>
